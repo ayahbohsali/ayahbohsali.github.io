@@ -11,6 +11,19 @@ body {
   background-blend-mode: overlay; /* Helps blend the image */
 }
 
+/* Make the top navigation bar transparent */
+.navbar {
+  background: rgba(255, 255, 255, 0.2) !important; /* Adjust transparency */
+  backdrop-filter: blur(10px); /* Adds a nice blur effect */
+  box-shadow: none; /* Removes shadow */
+}
+
+/* Make navigation links readable */
+.navbar a {
+  color: #333 !important; /* Keeps text visible */
+  font-weight: bold;
+}
+
 /* Headings */
 h1, h2, h3 {
   font-family: "Merriweather", sans-serif;
