@@ -1,18 +1,68 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap');
+
+/* General Styling */
+body {
+  font-family: "Merriweather", serif;  /* Main text font */
+  background-color: #f9f9f9; /* Light background for better contrast */
+  margin: 0;
+  padding: 0;
+}
+
+/* Headings */
+h1, h2, h3 {
+  font-family: "Merriweather", sans-serif;
+}
+
+/* Abstract Styling */
 .abstract {
   font-size: 12px;
   line-height: 1.5;
   color: #444;
-  font-style: italic; /* Makes text italic */
-  margin-left: 20px; /* Adds a small indentation */
+  font-style: italic;
+  margin-left: 20px;
 }
 
-
-body {
-  font-family: "Merriweather", serif;  /* Main text font */
+/* ===== Contact Page Styling ===== */
+.page-content {
+  max-width: 800px; /* Limits content width */
+  margin: 40px auto; /* Centers the content with spacing */
+  padding: 30px; /* Adds inner space */
+  background: #fff; /* Ensures background is white */
+  border-radius: 8px; /* Rounds the corners */
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow */
+  text-align: center;
 }
 
-h1, h2, h3 {
-  font-family: "Merriweather", sans-serif;  /* Headings */
+/* Contact Heading */
+.page-content h1 {
+  font-size: 32px;
+  color: #333;
+  margin-bottom: 15px;
 }
+
+/* Contact Information */
+.page-content p {
+  font-size: 18px;
+  color: #555;
+  margin: 10px 0;
+}
+
+/* Contact Links */
+.page-content a {
+  color: #0077cc;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.page-content a:hover {
+  text-decoration: underline;
+}
+
+/* Spacing for Contact Page Elements */
+.contact-info {
+  margin-top: 20px;
+  padding: 10px;
+  font-size: 16px;
+}
+
 /* Dummy change to force GitHub to rebuild */
