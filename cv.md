@@ -4,4 +4,4 @@ title: "CV"
 permalink: /cv/
 ---
 
-📄 [Download my CV (PDF)](/assets/files/cv2025academic.pdf)
+<a href="/assets/files/cv.pdf" target="_blank">📄 Download my CV</a>
