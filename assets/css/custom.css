@@ -66,4 +66,7 @@ h1, h2, h3 {
   font-size: 12px;
 }
 
-/* Dummy change to force GitHub to rebuild */
+body {
+  background: url("{{ site.baseurl }}/assets/images/IMG-20250301-WA0075.jpg") no-repeat center center fixed;
+  background-size: cover;
+}
