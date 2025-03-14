@@ -6,6 +6,9 @@ body {
   background-color: #f9f9f9; /* Light background for better contrast */
   margin: 0;
   padding: 0;
+  background: url("/assets/images/IMG-20250301-WA0075.jpg") no-repeat center center fixed;
+  background-size: cover;
+  background-blend-mode: overlay; /* Helps blend the image */
 }
 
 /* Headings */
@@ -66,5 +69,4 @@ h1, h2, h3 {
   font-size: 12px;
 }
 
-background: url("/assets/images/IMG-20250301-WA0013.jpg") no-repeat center center fixed;
 
