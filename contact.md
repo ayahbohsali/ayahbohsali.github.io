@@ -3,7 +3,6 @@ layout: single
 title: "Contact"
 permalink: /contact/
 ---
-# Contact Me
 
   📧 Email: [ayah.bohsali@upf.edu](ayah.bohsali@upf.edu)  
   
