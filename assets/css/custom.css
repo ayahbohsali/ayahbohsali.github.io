@@ -13,6 +13,6 @@ body {
 }
 
 h1, h2, h3 {
-  font-family: "Roboto", sans-serif;  /* Headings */
+  font-family: "Merriweather", sans-serif;  /* Headings */
 }
 /* Dummy change to force GitHub to rebuild */
