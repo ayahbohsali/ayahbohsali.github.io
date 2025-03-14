@@ -326,4 +326,4 @@ defaults:
 # For more flexible customization using css
 custom_css:
   - "assets/css/custom.css"
-"# Force rebuild" 
+# Force rebuild" 
