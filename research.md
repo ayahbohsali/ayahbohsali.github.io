@@ -16,7 +16,7 @@ I study the long run economic impact of a large-scale forced displacement policy
 ---
 
 ### **Team Size and Performance: Experimental Evidence from India**  
-**with** Elisa Giannone and Giorgia Barboni  
+with Elisa Giannone and Giorgia Barboni  
 
 ---
 
