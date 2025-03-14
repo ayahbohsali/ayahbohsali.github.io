@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Contact
+layout: single
+title: "Contact"
 permalink: /contact/
 ---
 # Contact Me
@@ -10,3 +10,4 @@ permalink: /contact/
   💼 LinkedIn: [linkedin.com/in/ayah-bohsali](www.linkedin.com/in/ayah-bohsali-b65aa8128)  
   
   📍 Location: Barcelona, Spain  
+---
