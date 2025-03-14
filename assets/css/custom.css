@@ -82,4 +82,12 @@ h1, h2, h3 {
   font-size: 12px;
 }
 
+/* Make footer transparent */
+.site-footer {
+  background: rgba(255, 255, 255, 0.2) !important;
+  backdrop-filter: blur(10px);
+  box-shadow: none;
+  color: #333 !important; /* Keeps text readable */
+}
+
 
