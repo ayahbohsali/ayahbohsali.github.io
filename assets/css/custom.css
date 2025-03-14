@@ -22,7 +22,7 @@ h1, h2, h3 {
   margin-left: 20px;
 }
 
-/* ===== Contact Page Styling ===== */
+/* Contact Page Styling */
 .page-content {
   max-width: 800px; /* Limits content width */
   margin: 40px auto; /* Centers the content with spacing */
@@ -31,6 +31,7 @@ h1, h2, h3 {
   border-radius: 8px; /* Rounds the corners */
   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow */
   text-align: center;
+  display: block; /* Ensures it's a block element */
 }
 
 /* Contact Heading */
