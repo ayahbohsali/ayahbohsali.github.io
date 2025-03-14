@@ -12,17 +12,20 @@ body {
 }
 
 /* Make the top navigation bar transparent */
-.navbar {
+/* Make the navigation bar transparent */
+#site-nav, .greedy-nav {
   background: rgba(255, 255, 255, 0.2) !important; /* Adjust transparency */
   backdrop-filter: blur(10px); /* Adds a nice blur effect */
-  box-shadow: none; /* Removes shadow */
+  box-shadow: none !important; /* Removes shadow */
+  border-bottom: none !important; /* Removes bottom border */
 }
 
-/* Make navigation links readable */
-.navbar a {
-  color: #333 !important; /* Keeps text visible */
+/* Make sure the menu text is visible */
+.greedy-nav a {
+  color: #000 !important; /* Adjust text color for readability */
   font-weight: bold;
 }
+
 
 /* Headings */
 h1, h2, h3 {
