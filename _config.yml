@@ -327,3 +327,10 @@ defaults:
 custom_css:
   - "assets/css/custom.css"
 # Force rebuild" 
+
+
+title: "Ayah Bohsali | Researcher & Academic"
+description: "The personal academic website of Ayah Bohsali. Research, CV, and contact details."
+author: "Ayah Bohsali"
+keywords: "Ayah Bohsali, research, academic, publications, CV, teaching"
+#google_site_verification: "YOUR_VERIFICATION_CODE_HERE" # From Google Search Console
