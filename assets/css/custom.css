@@ -67,20 +67,8 @@ h1, h2, h3 {
 }
 
 body {
-  background: url("/assets/images/IMG-20250301-WA0013.jpg") no-repeat center center fixed;
+  background: url("/assets/images/IMG-20250301-WA0075.jpg") no-repeat center center fixed;
   background-size: cover;
-  position: relative;
-}
-
-/* Overlay to control transparency */
-body::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: rgba(255, 255, 255, 0.6); /* Adjust transparency */
-  z-index: -1; /* Keeps it behind the content */
+  opacity: 0.5; /* Adjust from 0 (fully transparent) to 1 (fully visible) */
 }
 
