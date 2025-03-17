@@ -95,4 +95,10 @@ h1, h2, h3 {
   color: #333 !important; /* Keeps text readable */
 }
 
+.page__footer {
+  background: rgba(255, 255, 255, 0.2) !important; /* Transparent footer */
+  backdrop-filter: blur(10px); /* Smooth blur effect */
+  box-shadow: none !important;
+  border-top: none !important;
+}
 
