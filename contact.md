@@ -6,7 +6,7 @@ permalink: /contact/
 
   📧 Email: [ayah.bohsali@upf.edu](ayah.bohsali@upf.edu)  
   
-  💼 LinkedIn: [linkedin.com/in/ayah-bohsali](www.linkedin.com/in/ayah-bohsali-b65aa8128)  
+  💼 LinkedIn: [linkedin.com/in/ayah-bohsali-b65aa8128](www.linkedin.com/in/ayah-bohsali-b65aa8128)  
   
   📍 Location: Barcelona, Spain  
 ---
