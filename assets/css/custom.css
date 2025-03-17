@@ -100,25 +100,35 @@ h1, h2, h3 {
   backdrop-filter: blur(10px); /* Smooth blur effect */
   box-shadow: none !important;
   border-top: none !important;
-  padding: 10px 0 !important; /* Less padding = smaller footer */
+  padding: 10px 20px !important; /* Less padding = smaller footer */
   min-height: 50px; /* Ensures it's not too large */
 }
 
 
+/* Create a flex container for footer */
+.footer-container {
+  display: flex;
+  justify-content: space-between; /* Text on the left, logo on the right */
+  align-items: center; /* Align everything vertically */
+  width: 100%;
+}
+
+/* Footer text */
+.footer-text {
+  margin: 0;
+}
+
 /* Align university logo properly */
 .footer-logo {
-  text-align: right;
-  padding: 0; /* Remove extra padding */
-  margin-right: 20px; /* Move it closer to the right */
   display: flex;
-  align-items: center; /* Align with footer text */
-  height: 100%; /* Make sure it fits inside the footer */
+  align-items: center;
 }
 
 .footer-logo img {
   height: 40px; /* Adjust logo size */
   width: auto;
   opacity: 0.8;
+  margin-left: auto; /* Pushes it to the right */
 }
 
 .footer-logo img:hover {
