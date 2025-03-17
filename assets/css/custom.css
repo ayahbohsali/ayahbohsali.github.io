@@ -103,17 +103,28 @@ h1, h2, h3 {
   padding: 10px 0 !important; /* Less padding = smaller footer */
   min-height: 50px; /* Ensures it's not too large */
 }
-/* Align university logo to the right */
+
+
+/* Align university logo properly */
 .footer-logo {
   text-align: right;
-  padding: 10px 20px; /* Adjust spacing */
+  padding: 0; /* Remove extra padding */
+  margin-right: 20px; /* Move it closer to the right */
+  display: flex;
+  align-items: center; /* Align with footer text */
+  height: 100%; /* Make sure it fits inside the footer */
 }
 
 .footer-logo img {
-  height: 50px; /* Adjust logo size */
+  height: 40px; /* Adjust logo size */
   width: auto;
-  opacity: 0.8; /* Slight transparency */
+  opacity: 0.8;
 }
+
+.footer-logo img:hover {
+  opacity: 1;
+}
+
 
 .footer-logo img:hover {
   opacity: 1; /* Full visibility on hover */
