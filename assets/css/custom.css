@@ -100,6 +100,8 @@ h1, h2, h3 {
   backdrop-filter: blur(10px); /* Smooth blur effect */
   box-shadow: none !important;
   border-top: none !important;
+  padding: 10px 0 !important; /* Less padding = smaller footer */
+  min-height: 50px; /* Ensures it's not too large */
 }
 /* Align university logo to the right */
 .footer-logo {
