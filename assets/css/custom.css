@@ -6,6 +6,7 @@ body {
   background-color: #f9f9f9; /* Light background for better contrast */
   margin: 0;
   padding: 0;
+  background: url("/assets/images/IMG-20240325-WA0013.jpg") no-repeat;
   background-position: 80% 10%; /* Moves focus to the top-right */
   background-size: contain; /* Keeps the full image visible */
   background-attachment: fixed; /* Keeps it fixed while scrolling */
