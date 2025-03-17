@@ -36,7 +36,7 @@ h1, h2, h3 {
 
 /* Abstract Styling */
 .abstract {
-  font-size: 10px;
+  font-size: 12px !important;
   line-height: 1.5;
   color: #444;
   font-style: italic;
