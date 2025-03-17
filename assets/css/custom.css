@@ -6,7 +6,7 @@ body {
   background-color: #f9f9f9; /* Light background for better contrast */
   margin: 0;
   padding: 0;
-  background: url("/assets/images/IMG-20240325-WA0013.jpg") no-repeat center center fixed;
+  background: url("/assets/images/IMG-20240325-WA0013.jpg") no-repeat right top fixed;
   background-size: cover;
   background-blend-mode: overlay; /* Helps blend the image */
 }
