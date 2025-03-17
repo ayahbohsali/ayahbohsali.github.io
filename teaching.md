@@ -4,7 +4,6 @@ title: "Teaching"
 permalink: /teaching/
 ---
 
-## Courses I've Taught  
 
  TA to Introduction to Macroeconomics (Undergraduate) | 02/2025
  Master Project Advisory TA (Barcelona School of Economics) | 03/2023 – 07/2024
