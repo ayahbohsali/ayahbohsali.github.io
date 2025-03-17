@@ -101,4 +101,20 @@ h1, h2, h3 {
   box-shadow: none !important;
   border-top: none !important;
 }
+/* Align university logo to the right */
+.footer-logo {
+  text-align: right;
+  padding: 10px 20px; /* Adjust spacing */
+}
+
+.footer-logo img {
+  height: 50px; /* Adjust logo size */
+  width: auto;
+  opacity: 0.8; /* Slight transparency */
+}
+
+.footer-logo img:hover {
+  opacity: 1; /* Full visibility on hover */
+}
+
 
