@@ -7,10 +7,10 @@ body {
   margin: 0;
   padding: 0;
  /* background: url("/assets/images/IMG-20240325-WA0013.jpg") no-repeat;*/
-  background-position: 75% 15%; /* Moves focus to the top-right */
-  background-size: cover; /* Keeps the full image visible */
-  background-attachment: fixed; /* Keeps it fixed while scrolling */
-  background-blend-mode: overlay; /* Helps blend the image */
+ /* background-position: 75% 15%; Moves focus to the top-right */
+  /*background-size: cover;  Keeps the full image visible */
+ /* background-attachment: fixed;  Keeps it fixed while scrolling */
+/*  background-blend-mode: overlay; /* Helps blend the image */ 
 }
 
 /* Make the top navigation bar transparent */
