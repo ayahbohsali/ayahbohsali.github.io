@@ -213,6 +213,7 @@ a:hover {
   color: #336b6b !important;
 }
 
+/* Adjusts image-text alignment so that phone view is not weird */
 .responsive-flex {
   display: flex;
   flex-direction: row;
@@ -237,6 +238,8 @@ a:hover {
     width: 90%;
   }
 }
+
+/* Adjusts image-text alignment so that phone view is not weird-homepage */
 .responsive-home-intro {
   display: flex;
   flex-direction: row;
@@ -254,7 +257,7 @@ a:hover {
 
 .home-intro-text {
   flex: 2;
-  font-size: 1rem;
+  font-size: 0.95rem;
   line-height: 1.5;
   margin-top: 10px;
 }
