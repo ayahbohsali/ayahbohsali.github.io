@@ -207,4 +207,8 @@ a:hover {
   text-indent: -1em;
 }
 
-
+.page__header h1.page__title,
+.page__header h1.page__title::before,
+.page__header h1.page__title::after {
+  color: #336b6b !important;
+}
