@@ -143,13 +143,17 @@ h1, h2, h3 {
 .footer-logo {
   display: flex;
   align-items: center;
+  justify-content: flex-end;
+  margin-top: 10px;
 }
 
 .footer-logo img {
   height: 40px; /* Adjust logo size */
   width: auto;
   opacity: 0.8;
-  margin-left: auto; /* Pushes it to the right */
+ /* margin-left: auto;  Pushes it to the right */
+  margin-right: 10px;
+  transition: opacity 0.3s ease;
 }
 
 .footer-logo img:hover {
