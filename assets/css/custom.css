@@ -208,7 +208,7 @@ a:hover {
 }
 
 .page__header h1.page__title,
-.page__header h1.page__title::before,
-.page__header h1.page__title::after {
+.page__title,
+.page__header h1 {
   color: #336b6b !important;
 }
