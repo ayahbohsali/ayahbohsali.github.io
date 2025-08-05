@@ -34,10 +34,18 @@ h1, h2, h3 {
   font-family: "Merriweather", sans-serif;
 }
 
-/* home intro */
-.home-intro {
-  font-size: 16px;
+.home-intro-section {
+  max-width: 1000px;
+  margin: 0 auto 2em;
+  padding: 0 1em;
 }
+
+.intro-text {
+  font-size: 18px;
+  line-height: 1.6;
+  margin-bottom: 1em;
+}
+
 
 /* Abstract Styling */
 .abstract {
