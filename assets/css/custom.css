@@ -99,12 +99,13 @@ h1, h2, h3 {
 
 /* Contact Links */
 .page-content a {
-  color: #0077cc;
+  color: #336b6b;
   text-decoration: none;
   font-weight: bold;
 }
 
 .page-content a:hover {
+  color: #6fa4a4;
   text-decoration: underline;
 }
 
