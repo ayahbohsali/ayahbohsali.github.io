@@ -238,3 +238,40 @@ a:hover {
   }
 }
 
+.responsive-home-intro {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+  flex-direction: row;
+  margin-bottom: 30px;
+}
+
+.home-intro-image img {
+  width: 480px;
+  height: auto;
+  border-radius: 8px;
+}
+
+.home-intro-text {
+  flex: 2;
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+@media (max-width: 768px) {
+  .responsive-home-intro {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .home-intro-image img {
+    width: 80%;
+    max-width: 300px;
+  }
+
+  .home-intro-text {
+    padding: 0 15px;
+    font-size: 1rem;
+  }
+}
+
