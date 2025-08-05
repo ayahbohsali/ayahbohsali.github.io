@@ -26,13 +26,18 @@
 
     <div id="footer" class="page__footer">
       <footer>
-        {% include footer/custom.html %}
-        {% include_cached footer.html %}
-        <div class="footer-logo">
-  <img src="{{ site.baseurl }}/assets/images/upf_logo.png" alt="University Logo">
-</div>
+        <div class="footer-flex">
+          <div class="footer-left">
+            {% include footer/custom.html %}
+            {% include_cached footer.html %}
+          </div>
+          <div class="footer-logo">
+            <img src="{{ site.baseurl }}/assets/images/upf_logo.png" alt="University Logo">
+          </div>
+        </div>
       </footer>
     </div>
+
 
     {% include scripts.html %}
   </body>
