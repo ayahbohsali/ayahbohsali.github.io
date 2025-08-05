@@ -240,9 +240,9 @@ a:hover {
 
 .responsive-home-intro {
   display: flex;
+  flex-direction: row;
   align-items: center;
   gap: 40px;
-  flex-direction: row;
   margin-bottom: 30px;
 }
 
@@ -274,4 +274,3 @@ a:hover {
     font-size: 1rem;
   }
 }
-
