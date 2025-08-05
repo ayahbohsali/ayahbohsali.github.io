@@ -140,26 +140,27 @@ h1, h2, h3 {
 }
 
 /* Align university logo properly */
-.footer-logo {
+.footer-flex {
   display: flex;
+  justify-content: space-between;
   align-items: center;
-  justify-content: flex-end;
-  margin-top: 10px;
+  flex-wrap: wrap; /* Ensures responsiveness */
+  gap: 20px;
+}
+
+.footer-left {
+  flex: 1;
+}
+
+.footer-logo {
+  flex-shrink: 0;
 }
 
 .footer-logo img {
-  height: 40px; /* Adjust logo size */
-  width: auto;
-  opacity: 0.8;
- /* margin-left: auto;  Pushes it to the right */
+  height: 40px;
+  opacity: 0.85;
   margin-right: 10px;
-  transition: opacity 0.3s ease;
 }
-
-.footer-logo img:hover {
-  opacity: 1; /* Full visibility on hover */
-}
-
 .transparent-box ul {
   list-style-type: none; /* Removes default bullets */
   padding-left: 0;        /* Optional: removes left indent */
