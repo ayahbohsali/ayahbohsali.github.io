@@ -45,7 +45,10 @@ h1, h2, h3 {
   line-height: 1.6;
   margin-bottom: 1em;
 }
-
+.page {
+  max-width: 1200px;
+  margin: 0 auto;
+}
 
 /* Abstract Styling */
 .abstract {
