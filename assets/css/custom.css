@@ -140,6 +140,11 @@ h1, h2, h3 {
   opacity: 1; /* Full visibility on hover */
 }
 
+\.transparent-box ul {
+  list-style-type: none; /* Removes default bullets */
+  padding-left: 0;        /* Optional: removes left indent */
+}
+
 .transparent-box ul li {
   font-size: 12px; /* You can go smaller like 12px if needed */
   margin-bottom: 8px;
@@ -147,3 +152,5 @@ h1, h2, h3 {
   padding-left: 1em;
   text-indent: -1em;
 }
+
+
