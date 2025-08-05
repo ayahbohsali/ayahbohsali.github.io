@@ -33,6 +33,7 @@ body {
 /* Page Titles */
 .page__title {
   color: #336b6b !important;
+  text-align: center;
 }
 /* Headings */
 h1, h2, h3 {
