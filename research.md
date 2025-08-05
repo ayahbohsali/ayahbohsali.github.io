@@ -25,7 +25,7 @@ permalink: /research/
 ### **Team Size and Performance: Experimental Evidence from India**  
 #### with Elisa Giannone and Giorgia Barboni  
 
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
+<div class="responsive-flex">
 
   <img src="/assets/images/Networks graph example.png" alt="Graph" style="width: 250px; border-radius: 6px; box-shadow: 0 1px 4px rgba(0,0,0,0.1);">
 
