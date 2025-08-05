@@ -140,12 +140,10 @@ h1, h2, h3 {
   opacity: 1; /* Full visibility on hover */
 }
 
-
-.transparent-box {
-  background: rgba(255, 255, 255, 0.5); 
-  padding: 20px;
-  border-radius: 8px;
-  max-width: 800px;
-  margin: 40px auto;
-  text-align: left;
+.transparent-box ul li {
+  font-size: 14px; /* You can go smaller like 12px if needed */
+  margin-bottom: 8px;
+  line-height: 1.6;
+  padding-left: 1em;
+  text-indent: -1em;
 }
