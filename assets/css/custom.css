@@ -34,6 +34,11 @@ h1, h2, h3 {
   font-family: "Merriweather", sans-serif;
 }
 
+/* home intro */
+.home-intro {
+  font-size: 16px;
+}
+
 /* Abstract Styling */
 .abstract {
   font-size: 15px !important;
