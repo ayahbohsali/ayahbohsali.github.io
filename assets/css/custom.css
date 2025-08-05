@@ -112,6 +112,16 @@ h1, h2, h3 {
   text-decoration: underline;
 }
 
+a {
+  color: #336b6b;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #6fa4a4;
+  text-decoration: underline;
+}
+
 /* Spacing for Contact Page Elements */
 .contact-info {
   margin-top: 20px;
