@@ -212,3 +212,29 @@ a:hover {
 .page__header h1 {
   color: #336b6b !important;
 }
+
+.responsive-flex {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 20px;
+  margin-top: 10px;
+}
+
+.responsive-flex img {
+  width: 200px;
+  border-radius: 6px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+}
+
+@media (max-width: 768px) {
+  .responsive-flex {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .responsive-flex img {
+    width: 90%;
+  }
+}
+
