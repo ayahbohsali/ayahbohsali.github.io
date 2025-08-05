@@ -34,6 +34,7 @@ body {
 /* Headings */
 h1, h2, h3 {
   font-family: "Merriweather", sans-serif;
+  color: #336b6b;
 }
 
 /* Change font for nav bar */
