@@ -8,9 +8,9 @@ permalink: /research/
 
 ### **Conflict, Forced Displacement and Growth: Evidence from Uganda**  
 
-**Abstract**  
+
 <p class="abstract">  
-I study the long run economic impact of a large-scale forced displacement policy in Uganda during the civil war. This policy forcibly relocated approximately 90% of the affected districts’ population into Internal Displacement Camps for up to ten years. The mass displacement led to a lasting increase in population density in the localities hosting camps, which persisted for nearly a decade after people were free to return to their villages of origin. Consequently, the spatial distribution of the population in Northern Uganda was shifted, altering the economic geography and growth in the region. Combining and harmonizing satellite data with novel administrative data, I document that forced displacement led to increases in nighttime light growth, market access, structural transformation towards services and human capital. Yet the effects were not distributed equally: while camps experienced population growth, it is the neighboring now-emptier localities experiencing increases in services employment.  When delving into mechanisms,  I find that the long-term effects of forced displacement are stronger in camps that lasted longer, had higher population size, and experienced lower levels of conflict intensity.</p>
+I study the long run economic impact of a large-scale forced displacement policy in Uganda during the civil war. This policy forcibly relocated approximately 90% of the affected districts’ population into Internal Displacement Camps for up to ten years. The mass displacement led to a lasting increase in population density in the localities hosting camps, which persisted for nearly a decade after people were free to return to their villages of origin. Consequently, the spatial distribution of the population in Northern Uganda was shifted, altering the economic geography and growth in the region. Combining and harmonizing satellite data with novel administrative data, I document that forced displacement led to increases in nighttime light growth, market access, structural transformation towards services and human capital. Yet the effects were not distributed equally: while camps experienced population growth, it is the neighboring now-emptier localities experiencing increases in services employment. When delving into mechanisms, I find that the long-term effects of forced displacement are stronger in camps that lasted longer, had higher population size, and experienced lower levels of conflict intensity.</p>
 ---
 ## Working Papers
 ---
@@ -18,7 +18,7 @@ I study the long run economic impact of a large-scale forced displacement policy
 ### **Team Size and Performance: Experimental Evidence from India**  
 with Elisa Giannone and Giorgia Barboni  
 
-**Abstract**
+
 <p class="abstract">  
 What are the gains of team size for performance? Does new technology diffuse faster in larger groups? To answer these questions and solve the endogenous sorting bias, we run the first randomized controlled trial where 1,582 Indian women were randomly assigned to 206 groups of different size  and encouraged to engage in a production process. 
 We find smaller teams to perform better than larger teams and that technology diffuses non-linearly with team size. 

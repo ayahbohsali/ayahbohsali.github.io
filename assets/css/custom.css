@@ -141,7 +141,7 @@ h1, h2, h3 {
 }
 
 .transparent-box ul li {
-  font-size: 14px; /* You can go smaller like 12px if needed */
+  font-size: 12px; /* You can go smaller like 12px if needed */
   margin-bottom: 8px;
   line-height: 1.6;
   padding-left: 1em;
