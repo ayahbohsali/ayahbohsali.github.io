@@ -31,7 +31,7 @@ body {
 }
 
 /* Page Titles */
-.page__title {
+.page__header .page__title {
   color: #336b6b !important;
   text-align: center;
 }
