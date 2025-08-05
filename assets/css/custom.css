@@ -31,10 +31,13 @@ body {
 }
 
 /* Page Titles */
-.page__header .page__title {
+h1.page__title,
+.page__header h1.page__title {
   color: #336b6b !important;
-  text-align: center;
+  text-align: center !important;
+  margin: 0 auto;
 }
+
 /* Headings */
 h1, h2, h3 {
   font-family: "Merriweather", sans-serif;
