@@ -4,10 +4,10 @@
 body {
   font-family: "Merriweather", serif;  /* Main text font */
   /*background-color: #f9f9f9;  Light background for better contrast */
-  background-color: #f8fafa; /* new thematic background  */
+  background-color: #cfe5e5; /* new thematic background  */
   margin: 0;
   padding: 0;
-  color: #1c1c1c;
+  color: #1f1f1f;
  /* background: url("/assets/images/IMG-20240325-WA0013.jpg") no-repeat;*/
  /* background-position: 75% 15%; Moves focus to the top-right */
   /*background-size: cover;  Keeps the full image visible */
@@ -16,7 +16,7 @@ body {
 }
 
 /* Make the top navigation bar transparent */
-/* Make the navigation bar transparent */
+
 #site-nav, .greedy-nav {
   background: rgba(255, 255, 255, 0.2) !important; /* Adjust transparency */
   backdrop-filter: blur(10px); /* Adds a nice blur effect */
@@ -43,6 +43,9 @@ h1, h2, h3 {
   font-weight: 400;
   font-size: 16px;
   letter-spacing: 0.5px;
+}
+.masthead__menu-item a:hover {
+  color: #336b6b;
 }
 
 .home-intro-section {
