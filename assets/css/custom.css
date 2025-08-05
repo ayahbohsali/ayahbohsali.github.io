@@ -237,27 +237,29 @@ a:hover {
     width: 90%;
   }
 }
-
 .responsive-home-intro {
   display: flex;
   flex-direction: row;
   align-items: center;
-  gap: 40px;
-  margin-bottom: 30px;
+  gap: 30px;
+  margin: 2rem 0; /* Adds vertical spacing */
 }
 
 .home-intro-image img {
-  width: 480px;
+  width: 320px;
   height: auto;
   border-radius: 8px;
+  margin-top: 10px; /* Space below the title */
 }
 
 .home-intro-text {
   flex: 2;
-  font-size: 1.1rem;
-  line-height: 1.6;
+  font-size: 1rem;
+  line-height: 1.5;
+  margin-top: 10px;
 }
 
+/* Responsive behavior on smaller screens */
 @media (max-width: 768px) {
   .responsive-home-intro {
     flex-direction: column;
@@ -266,11 +268,11 @@ a:hover {
 
   .home-intro-image img {
     width: 80%;
-    max-width: 300px;
+    max-width: 250px;
   }
 
   .home-intro-text {
     padding: 0 15px;
-    font-size: 1rem;
+    font-size: 0.95rem;
   }
 }
