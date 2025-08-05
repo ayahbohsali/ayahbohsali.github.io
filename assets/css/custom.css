@@ -30,7 +30,10 @@ body {
   font-weight: bold;
 }
 
-
+/* Page Titles */
+.page__title {
+  color: #336b6b !important;
+}
 /* Headings */
 h1, h2, h3 {
   font-family: "Merriweather", sans-serif;
