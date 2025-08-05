@@ -145,7 +145,7 @@ h1, h2, h3 {
   opacity: 1; /* Full visibility on hover */
 }
 
-\.transparent-box ul {
+.transparent-box ul {
   list-style-type: none; /* Removes default bullets */
   padding-left: 0;        /* Optional: removes left indent */
 }
