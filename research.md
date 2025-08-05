@@ -25,13 +25,17 @@ permalink: /research/
 ### **Team Size and Performance: Experimental Evidence from India**  
 with Elisa Giannone and Giorgia Barboni  
 
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
 
-<p class="abstract">  
-What are the gains of team size for performance? Does new technology diffuse faster in larger groups? To answer these questions and solve the endogenous sorting bias, we run the first randomized controlled trial where 1,582 Indian women were randomly assigned to 206 groups of different size  and encouraged to engage in a production process. 
-We find smaller teams to perform better than larger teams and that technology diffuses non-linearly with team size. 
- By measuring bilateral communication within teams and conducting network analysis across team members, we find that smaller teams are more centralized than medium and larger. Our findings can be explained by smaller teams organizing the production process more efficiently, for example, by assigning tasks to group members and being more likely to reach a consensus on production decisions. To estimate the welfare effects of the intervention, we plan to build a network model with a heterogeneous group size. Size affects coordination costs as well as the impact of new technologies. 
-</p>
+  <img src="/assets/images/Networks graph example.png" alt="Graph" style="width: 200px; border-radius: 6px; box-shadow: 0 1px 4px rgba(0,0,0,0.1);">
 
+  <p class="abstract" style="margin: 0;">
+    What are the gains of team size for performance? Does new technology diffuse faster in larger groups? To answer these questions and solve the endogenous sorting bias, we run the first randomized controlled trial where 1,582 Indian women were randomly assigned to 206 groups of different size  and encouraged to engage in a production process. 
+    We find smaller teams to perform better than larger teams and that technology diffuses non-linearly with team size. 
+    By measuring bilateral communication within teams and conducting network analysis across team members, we find that smaller teams are more centralized than medium and larger. Our findings can be explained by smaller teams organizing the production process more efficiently, for example, by assigning tasks to group members and being more likely to reach a consensus on production decisions. To estimate the welfare effects of the intervention, we plan to build a network model with a heterogeneous group size. Size affects coordination costs as well as the impact of new technologies. 
+  </p>
+
+</div>
 
 ---
 
