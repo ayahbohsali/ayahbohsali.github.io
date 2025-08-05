@@ -23,7 +23,7 @@ permalink: /research/
 ---
 
 ### **Team Size and Performance: Experimental Evidence from India**  
-with Elisa Giannone and Giorgia Barboni  
+#### with Elisa Giannone and Giorgia Barboni  
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
 
