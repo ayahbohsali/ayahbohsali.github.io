@@ -3,7 +3,7 @@ layout: single
 title: "Teaching"
 permalink: /teaching/
 ---
-
+<div style="text-align: center;">
 
  TA to Introduction to Macroeconomics (Undergraduate) | 02/2025
  Master Project Advisory TA (Barcelona School of Economics) | 03/2023 – 07/2024
@@ -12,3 +12,4 @@ permalink: /teaching/
  TA to Introduction to Microeconomics (Undergraduate) | 10/2021
  TA to Introduction to Data Analysis (Undergraduate) | 10/2021
 		
+</div>
