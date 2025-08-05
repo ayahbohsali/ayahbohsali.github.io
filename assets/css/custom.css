@@ -3,9 +3,11 @@
 /* General Styling */
 body {
   font-family: "Merriweather", serif;  /* Main text font */
-  background-color: #f9f9f9; /* Light background for better contrast */
+  /*background-color: #f9f9f9;  Light background for better contrast */
+  background-color: #f8fafa; /* new thematic background  */
   margin: 0;
   padding: 0;
+  color: #1c1c1c;
  /* background: url("/assets/images/IMG-20240325-WA0013.jpg") no-repeat;*/
  /* background-position: 75% 15%; Moves focus to the top-right */
   /*background-size: cover;  Keeps the full image visible */
