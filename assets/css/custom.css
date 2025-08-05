@@ -112,7 +112,7 @@ h1, h2, h3 {
 }
 
 .page-content a:hover {
-  color: #6fa4a4;
+  color: #6fa4a4 !important;
   text-decoration: underline;
 }
 
