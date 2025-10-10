@@ -42,4 +42,14 @@ permalink: /research/
 
 ### **Gender and Consumption Inequality**  
 
+
+<div class="responsive-flex">
+
+  <img src="/assets/images/all categories q1 and q5-ordered.png" alt="Graph" style="width: 250px; border-radius: 6px; box-shadow: 0 1px 4px rgba(0,0,0,0.1);">
+
+  <p class="abstract" style="margin: 0;">
+    In this paper I conduct an in-depth analysis of consumption differences across single men and women. Using the Consumer Expenditure Survey, I establish a new set of facts regarding the consumption levels of single men and women: first, that overall consumption expenditures are lower for women than for men. Second, that the gender consumption gap behaves similarly to the gender wage gap. Third, that the gender consumption gap is decreasing with income. Fourth, I show that consumption heterogeneity by goods type is also decreasing with income, and lastly, I show that whereas poorer women hold less liquid assets than poorer men, this is not the case for women with income above the 40th percentile. I show that two channels are important for explaining the gender consumption gap: the gender income gap, and parenthood. Then, using a partial equilibrium two period model I aim to replicate the behavior seen in the data to understand the implications of having such a consumption gap.
+  </p>
+
+</div>
 ---
