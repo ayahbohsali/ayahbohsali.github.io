@@ -21,9 +21,13 @@ permalink: /research/
 ---
 ### Working Papers
 ---
-
-### **Team Size and Performance: Experimental Evidence from India**  
-#### with Elisa Giannone and Giorgia Barboni  
+<h3 style="margin-bottom: 0;">
+  <strong>Team Size and Performance: Experimental Evidence from India</strong>
+  <span style="font-weight: normal; font-size: 0.9rem;">
+    — <a href="/assets/files/SHGs_Group_Size_and_Productivity.pdf" target="_blank">View paper</a>
+  </span>
+</h3>
+<h4 style="margin-top: 0;">with Elisa Giannone and Giorgia Barboni</h4>
 
 <div class="responsive-flex">
 
