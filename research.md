@@ -3,11 +3,18 @@ layout: single
 title: "Research"
 permalink: /research/
 ---
-### Job Market Paper
----
 
-### **Conflict, Forced Displacement and Growth: Evidence from Uganda**  
+<h3 style="text-align: center; font-style: italic;">Job Market Paper</h3>
+<hr style="width: 60%; margin: 0 auto 20px auto;">
 
+### ****  
+
+<h3 style="margin-bottom: 0;">
+  <strong>Conflict, Forced Displacement and Growth: Evidence from Uganda</strong>
+  <span style="font-weight: normal; font-size: 0.9rem;">
+    — <a href="/assets/files/JMP.pdf" target="_blank">Draft</a>
+  </span>
+</h3>
 
 <div class="responsive-flex">
 
@@ -21,11 +28,11 @@ permalink: /research/
 ---
 <h3 style="text-align: center; font-style: italic;">Working Papers</h3>
 <hr style="width: 60%; margin: 0 auto 20px auto;">
----
+
 <h3 style="margin-bottom: 0;">
   <strong>Team Size and Performance: Experimental Evidence from India</strong>
   <span style="font-weight: normal; font-size: 0.9rem;">
-    — <a href="/assets/files/SHGs_Group_Size_and_Productivity.pdf" target="_blank">View paper</a>
+    — <a href="/assets/files/SHGs_Group_Size_and_Productivity.pdf" target="_blank">Draft</a>
   </span>
 </h3>
 <h4 style="margin-top: 0;">with Elisa Giannone and Giorgia Barboni</h4>
