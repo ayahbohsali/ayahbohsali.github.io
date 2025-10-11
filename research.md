@@ -54,7 +54,12 @@ permalink: /research/
 ---
 
 
-### **Gender and Consumption Inequality**  
+<h3 style="margin-bottom: 0;">
+  <strong>Gender and Consumption Inequality</strong>
+  <span style="font-weight: normal; font-size: 0.9rem;">
+    — <a href="/assets/files/Slides.pdf" target="_blank">Slides</a>
+  </span>
+</h3>
 
 
 <div class="responsive-flex">
