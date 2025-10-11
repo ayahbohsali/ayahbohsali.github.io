@@ -35,7 +35,10 @@ permalink: /research/
     — <a href="/assets/files/SHGs_Group_Size_and_Productivity.pdf" target="_blank">Draft</a>
   </span>
 </h3>
-<h4 style="margin-top: 0;">with Elisa Giannone and Giorgia Barboni</h4>
+
+<p style="margin-top: 0; font-size: 0.9rem; font-weight: normal;">
+  with Elisa Giannone and Giorgia Barboni
+</p>
 
 <div class="responsive-flex">
 
