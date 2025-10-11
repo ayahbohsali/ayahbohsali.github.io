@@ -7,7 +7,6 @@ permalink: /research/
 <h3 style="text-align: center; font-style: italic;">Job Market Paper</h3>
 <hr style="width: 60%; margin: 0 auto 20px auto;">
 
-### ****  
 
 <h3 style="margin-bottom: 0;">
   <strong>Conflict, Forced Displacement and Growth: Evidence from Uganda</strong>
