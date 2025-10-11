@@ -19,7 +19,8 @@ permalink: /research/
 
 </div>
 ---
-### Working Papers
+<h3 style="text-align: center; font-style: italic;">Working Papers</h3>
+<hr style="width: 60%; margin: 0 auto 20px auto;">
 ---
 <h3 style="margin-bottom: 0;">
   <strong>Team Size and Performance: Experimental Evidence from India</strong>
