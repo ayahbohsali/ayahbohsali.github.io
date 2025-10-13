@@ -31,7 +31,7 @@ permalink: /research/
 <h3 style="margin-bottom: 0;">
   <strong>Team Size and Performance: Experimental Evidence from India</strong>
   <span style="font-weight: normal; font-size: 0.9rem;">
-    — <a href="/assets/files/SHGs_Group_Size_and_Productivity.pdf" target="_blank">Draft</a>
+    — <a href="/assets/files/SHGs_Group_Size_and_Productivity.pdf" target="_blank">Draft  Soon!</a>
   </span>
 </h3>
 
