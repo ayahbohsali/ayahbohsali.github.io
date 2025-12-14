@@ -23,6 +23,8 @@ permalink: /research/
     I study the long run economic impact of a large-scale forced displacement policy in Uganda during the civil war. This policy forcibly relocated 80-90% of the affected districts’ population into Internal Displacement Camps for up to ten years. The mass displacement led to a lasting increase in population density in the localities hosting camps, which persisted for nearly a decade after people were free to return to their villages of origin. Consequently, the spatial	distribution of the population in Northern Uganda was shifted, altering the economic geography and growth in the region. Combining and harmonizing satellite data with novel administrative data, I document that the forced displacement episode led to an occupational shift towards services and an increase in overall education levels. Moreover, I show that the long-term effects of forced displacement are stronger in places where camps lasted longer, and had higher population size. I develop a quantitative spatial model that rationalizes these results. I find that increased return migration due to infrastructure reconstruction played an important role in post-conflict development.
   </p>
 
+</div>
+<div class="responsive-flex">
 
 <p class="abstract" style="margin: 0;">
     <strong>Media Coverage:</strong>
