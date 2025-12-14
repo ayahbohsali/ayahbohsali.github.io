@@ -26,6 +26,10 @@ permalink: /research/
 </div>
 <div class="responsive-flex">
 
+<p class="abstract" style="margin: 0;" text-decoration= "underline;">
+    <strong>Media Coverage:</strong>
+</p>
+
 <p class="abstract" style="margin: 0;">
     <strong>Media Coverage:</strong>
   <span style="font-weight: normal; font-size: 0.9rem;">
