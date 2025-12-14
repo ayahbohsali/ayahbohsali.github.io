@@ -29,7 +29,7 @@ permalink: /research/
 <p class="abstract" style="margin: 0;">
     <strong>Media Coverage:</strong>
   <span style="font-weight: normal; font-size: 0.9rem;">
-    — <a href="https://cepr.org/voxeu/columns/conflict-forced-displacement-and-growth-evidence-uganda" target="_blank">VoxEU</a>
+    <a href="https://cepr.org/voxeu/columns/conflict-forced-displacement-and-growth-evidence-uganda" target="_blank">VoxEU</a>
   </span>
   </p>
 
