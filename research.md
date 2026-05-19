@@ -64,6 +64,31 @@ permalink: /research/
 ---
 
 
+
+<h3 style="margin-bottom: 0;">
+  <strong>Conflict and Public Investment in Nigeria</strong>
+  <span style="font-weight: normal; font-size: 0.9rem;">
+    — <a href="/assets/files/SHGs_Group_Size_and_Productivity.pdf" target="_blank">Draft  Soon!</a>
+  </span>
+</h3>
+
+<p style="margin-top: 0; font-size: 0.9rem; font-weight: normal;">
+  with Ayman Tibi
+</p>
+
+<div class="responsive-flex">
+
+  <img src="/assets/images/event_type_composition.png" alt="Graph" style="width: 250px; border-radius: 6px; box-shadow: 0 1px 4px rgba(0,0,0,0.1);">
+
+  <p class="abstract" style="margin: 0;">
+    	We study how conflict shapes the Nigerian government's allocation of public investment across locations and sectors.Using novel data on federal procurement contracts and constituency-level capital projects scraped from Nigerian government portals, and an instrumental variable strategy exploiting distance-weighted spillovers of conflict from neighboring countries, we uncover three facts. First, that public investment decreases with the onset of conflict. Second, that conditional on conflict occurring, it is increasing in the frequency of conflict events. Third, we show that these increases are concentrated in investment in physical infrastructure. The findings point to governments' strategic reaction to conflict through investment allocation.
+  </p>
+
+</div>
+
+---
+
+
 <h3 style="margin-bottom: 0;">
   <strong>Gender and Consumption Inequality</strong>
   <span style="font-weight: normal; font-size: 0.9rem;">
