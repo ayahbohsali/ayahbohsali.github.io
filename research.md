@@ -39,9 +39,9 @@ permalink: /research/
 <hr style="width: 60%; margin: 0 auto 20px auto;">
 
 <h3 style="margin-bottom: 0;">
-  <strong>Team Size and Performance: Experimental Evidence from India</strong>
+  <strong>Scaling Up, Splitting Apart: The Network Cost of Production Scale </strong>
   <span style="font-weight: normal; font-size: 0.9rem;">
-    — <a href="/assets/files/SHGs_Group_Size_and_Productivity.pdf" target="_blank">Draft  Soon!</a>
+    — <a href="/assets/files/Network_Teams_Mar2026.pdf" target="_blank">Draft</a>
   </span>
 </h3>
 
