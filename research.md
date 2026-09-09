@@ -56,7 +56,7 @@ permalink: /research/
   <p class="abstract" style="margin: 0;">
     What are the gains of team size for performance? Does new technology diffuse faster in larger groups? To answer these questions and solve the endogenous sorting bias, we run the first randomized controlled trial where 1,582 Indian women were randomly assigned to 206 groups of different size  and encouraged to engage in a production process. 
     We find smaller teams to perform better than larger teams and that technology diffuses non-linearly with team size. 
-    By measuring bilateral communication within teams and conducting network analysis across team members, we find that smaller teams are more centralized than medium and larger. Our findings can be explained by smaller teams organizing the production process more efficiently, for example, by assigning tasks to group members and being more likely to reach a consensus on production decisions. To estimate the welfare effects of the intervention, we propose to build a network model with a heterogeneous group size. Size affects coordination costs as well as the impact of new technologies. 
+    By measuring bilateral communication within teams and conducting network analysis across team members, we find that smaller teams are more centralized than medium and larger teams. Our findings can be explained by smaller teams organizing the production process more efficiently, for example, by assigning tasks to group members and being more likely to reach a consensus on production decisions. To estimate the welfare effects of the intervention, we propose to build a network model with a heterogeneous group size. Size affects coordination costs as well as the impact of new technologies. 
   </p>
 
 </div>
@@ -81,7 +81,7 @@ permalink: /research/
   <img src="/assets/images/event_type_composition.png" alt="Graph" style="width: 250px; border-radius: 6px; box-shadow: 0 1px 4px rgba(0,0,0,0.1);">
 
   <p class="abstract" style="margin: 0;">
-    	We study how conflict shapes the Nigerian government's allocation of public investment across locations and sectors.Using novel data on federal procurement contracts and constituency-level capital projects scraped from Nigerian government portals, and an instrumental variable strategy exploiting distance-weighted spillovers of conflict from neighboring countries, we uncover three facts. First, that public investment decreases with the onset of conflict. Second, that conditional on conflict occurring, it is increasing in the frequency of conflict events. Third, we show that these increases are concentrated in investment in physical infrastructure. The findings point to governments' strategic reaction to conflict through investment allocation.
+    	We study how conflict shapes the Nigerian government's allocation of public investment across locations and sectors. Using novel data on federal procurement contracts and constituency-level capital projects scraped from Nigerian government portals, and an instrumental variable strategy exploiting distance-weighted spillovers of conflict from neighboring countries, we uncover three facts. First, that public investment decreases with the onset of conflict. Second, that conditional on conflict occurring, it is increasing in the frequency of conflict events. Third, we show that these increases are concentrated in investment in physical infrastructure. The findings point to governments' strategic reaction to conflict through investment allocation.
   </p>
 
 </div>
